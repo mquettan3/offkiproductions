@@ -40,14 +40,8 @@ $(document).ready(function() {
         transition: 'zoomOut',
         transitionDuration: 3000,
         slides: [
-            { src: 'assets/images/hero/hero-1.jpg' },
-            { src: 'assets/images/hero/hero-2.jpg' },
-            { src: 'assets/images/hero/hero-3.jpg' },
-            { src: 'assets/images/hero/hero-4.jpg' },
-            { src: 'assets/images/hero/hero-5.jpg' },
-            { src: 'assets/images/hero/hero-6.jpg' },
-            { src: 'assets/images/hero/hero-7.jpg' },
-            { src: 'assets/images/hero/hero-8.jpg' }
+            { src: 'images/LogoLarge.jpg' },
+            { src: 'assets/images/hero/hero-2.jpg' }
         ]
     });
     
