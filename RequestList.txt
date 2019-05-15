@@ -1,0 +1,2 @@
+Pulsate the arrows
+Give each of the tabs a name rather than the dash
