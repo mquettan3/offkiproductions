@@ -1523,3 +1523,11 @@ body {
     color: #fff;
     font-size: 18px
 }
+
+/* Custom Additions */
+.license-section .fa-check {
+  color: green;
+}
+.license-section .fa-times {
+  color: red;
+}
