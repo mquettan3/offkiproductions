@@ -1,2 +1,6 @@
 Pulsate the arrows
 Give each of the tabs a name rather than the dash
+
+Add ability to purchase custom beat making.  Non-exlusive vs exclusive
+options.  Two revisions for each track maximum.  You can't go back and forth
+with us 100 times, only back and forth twice.
