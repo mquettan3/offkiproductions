@@ -1568,3 +1568,15 @@ body {
     -moz-animation: pulse 3s infinite ease-in-out;
     animation: pulse 3s infinite ease-in-out;
 }
+
+.carousel iframe {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+    .carousel iframe {
+      padding-left: 0px;
+      padding-right: 0px;
+    }
+}
