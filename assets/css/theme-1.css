@@ -872,7 +872,6 @@ ol.carousel-indicators  > li + li {
 
 .about-section .section-intro {
     margin-bottom: 20px;
-    max-width: 800px;
     font-size: 16px;
     color: #4f545e
 }
@@ -1548,26 +1547,6 @@ body {
 /* Alternate section background colors */
 section:nth-child(even) {
   background-color: rgb(245, 245, 245);
-}
-
-.custommusic-section .email {
-  font-size: 16px;
-}
-
-.vision-section {
-    margin-top: 50px;
-}
-
-.aboutus-header {
-    background: rgba(0, 0, 0, 0.8);
-}
-
-.aboutus-header .nav>li>a {
-    color: rgba(255, 255, 255, 0.65)
-}
-
-.aboutus-header .navbar-nav {
-    padding-top: 0
 }
 
 .custommusicsubtitle {
