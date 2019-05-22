@@ -40,8 +40,9 @@ $(document).ready(function() {
         transition: 'zoomOut',
         transitionDuration: 3000,
         slides: [
-            { src: 'images/LogoLarge.jpg' },
-            { src: 'assets/images/hero/hero-2.jpg' }
+            { src: 'images/hero-1.jpg' },
+            { src: 'images/hero-2.jpg' },
+            { src: 'images/hero-3.jpg' }
         ]
     });
 
