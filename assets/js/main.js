@@ -42,7 +42,8 @@ $(document).ready(function() {
         slides: [
             { src: 'images/hero-1.jpg' },
             { src: 'images/hero-2.jpg' },
-            { src: 'images/hero-3.jpg' }
+            { src: 'images/hero-3.jpg' },
+            { src: 'images/hero-4.jpg' }
         ]
     });
 

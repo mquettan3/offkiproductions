@@ -6,8 +6,15 @@
  * Website: http://themes.3rdwavemedia.com/
  * Twitter: @3rdwave_themes
 */
+
 .logo-holder {
-    background-image: url("../../images/CentralLogo.png")
+    background-image: url("../../images/Logos/Offki-Prod-Final-1-white.png")
+}
+
+@media (min-width: 500px) {
+  .logo-holder {
+      background-image: url("../../images/Logos/Offki-Prod-Final-2-white.png")
+  }
 }
 
 html,
@@ -434,13 +441,13 @@ label {
 }
 
 .logo-holder {
-    height: 100px;
+    height: 157px;
     text-align: center;
     background-color: transparent;
     background-position: center center;
     background-repeat: no-repeat;
     margin-top: 0;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     text-indent: -9999px;
     overflow: hidden
 }
@@ -456,8 +463,9 @@ label {
 }
 
 .promo-content .tagline {
-    font-size: 24px;
-    margin-bottom: 90px
+    font-size: 30px;
+    margin-bottom: 90px;
+    font-style:italic;
 }
 
 .updates-block {
