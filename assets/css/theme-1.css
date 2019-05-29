@@ -8,12 +8,12 @@
 */
 
 .logo-holder {
-    background-image: url("../../images/Logos/Offki-Prod-Final-2-1.png");
+    background-image: url("../../images/Logos/Offki-Prod-Final-2-1-white.png");
 }
 
 @media (min-width: 500px) {
   .logo-holder {
-      background-image: url("../../images/Logos/Offki-Prod-Final-2-2.png");
+      background-image: url("../../images/Logos/Offki-Prod-Final-2-2-white.png");
   }
 }
 
