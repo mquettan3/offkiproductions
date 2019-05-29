@@ -46,7 +46,7 @@ p {
 }
 
 a {
-    color: #0d4e86;
+    color: #6eceb2;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
@@ -85,8 +85,8 @@ a.btn {
 
 a.btn-primary,
 .btn-primary {
-    background: #0d4e86;
-    border: 2px solid #0d4e86;
+    background: #6eceb2;
+    border: 2px solid #6eceb2;
     color: #fff;
     text-transform: uppercase;
     -webkit-box-shadow: inset 0 0 0 0 #3d884d;
@@ -119,9 +119,9 @@ a.btn-secondary,
     border: 2px solid #1c1d21;
     color: #fff;
     text-transform: uppercase;
-    -webkit-box-shadow: inset 0 0 0 0 #0d4e86;
-    -moz-box-shadow: inset 0 0 0 0 #0d4e86;
-    box-shadow: inset 0 0 0 0 #0d4e86
+    -webkit-box-shadow: inset 0 0 0 0 #6eceb2;
+    -moz-box-shadow: inset 0 0 0 0 #6eceb2;
+    box-shadow: inset 0 0 0 0 #6eceb2
 }
 
 a.btn-secondary:hover,
@@ -146,11 +146,11 @@ a.btn-secondary:focus,
 a.btn-ghost-primary,
 .btn-ghost-primary {
     background: none;
-    border: 2px solid #0d4e86;
-    color: #0d4e86;
-    -webkit-box-shadow: inset 0 0 0 0 #0d4e86;
-    -moz-box-shadow: inset 0 0 0 0 #0d4e86;
-    box-shadow: inset 0 0 0 0 #0d4e86;
+    border: 2px solid #6eceb2;
+    color: #6eceb2;
+    -webkit-box-shadow: inset 0 0 0 0 #6eceb2;
+    -moz-box-shadow: inset 0 0 0 0 #6eceb2;
+    box-shadow: inset 0 0 0 0 #6eceb2;
     text-transform: uppercase
 }
 
@@ -158,19 +158,19 @@ a.btn-ghost-primary:active,
 a.btn-ghost-primary:focus,
 .btn-ghost-primary:active,
 .btn-ghost-primary:focus {
-    border: 2px solid #0d4e86;
-    color: #0d4e86;
+    border: 2px solid #6eceb2;
+    color: #6eceb2;
     outline: none
 }
 
 a.btn-ghost-primary:hover,
 .btn-ghost-primary:hover {
-    -webkit-box-shadow: inset 0 100px 0 0 #0d4e86;
-    -moz-box-shadow: inset 0 100px 0 0 #0d4e86;
-    box-shadow: inset 0 100px 0 0 #0d4e86;
-    background: #0d4e86;
+    -webkit-box-shadow: inset 0 100px 0 0 #6eceb2;
+    -moz-box-shadow: inset 0 100px 0 0 #6eceb2;
+    box-shadow: inset 0 100px 0 0 #6eceb2;
+    background: #6eceb2;
     color: #fff;
-    border: 2px solid #0d4e86
+    border: 2px solid #6eceb2
 }
 
 a.btn-ghost-secondary,
@@ -259,7 +259,7 @@ label {
 }
 
 .highlight {
-    color: #0d4e86
+    color: #6eceb2
 }
 
 #topcontrol {
@@ -310,7 +310,7 @@ label {
     display: inline-block;
     height: 4px;
     width: 60px;
-    background: #0d4e86;
+    background: #6eceb2;
     position: absolute;
     left: 50%;
     bottom: -5px;
@@ -416,7 +416,7 @@ label {
 }
 
 .footer a {
-    color: #0d4e86
+    color: #6eceb2
 }
 
 .footer a:hover {
@@ -609,7 +609,7 @@ label {
 }
 
 .updates-block .carousel-content .desc a.more-link {
-    color: #0d4e86;
+    color: #6eceb2;
     vertical-align: middle
 }
 
@@ -618,7 +618,7 @@ label {
 }
 
 .updates-block .carousel-content .highlight {
-    color: #0d4e86
+    color: #6eceb2
 }
 
 .carousel-indicators {
@@ -659,7 +659,7 @@ ol.carousel-indicators  > li + li {
 
 .countdown-box .number {
     font-weight: 700;
-    color: #0d4e86;
+    color: #6eceb2;
     font-size: 24px
 }
 
@@ -724,7 +724,7 @@ ol.carousel-indicators  > li + li {
 
 .gigs-section .meta-list .svg-inline--fa {
     margin-right: 5px;
-    color: #0d4e86;
+    color: #6eceb2;
     font-size: 16px
 }
 
@@ -849,7 +849,7 @@ ol.carousel-indicators  > li + li {
     position: absolute;
     left: -10px;
     top: 0;
-    background: #0d4e86;
+    background: #6eceb2;
     color: #fff;
     font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
@@ -1051,7 +1051,7 @@ ol.carousel-indicators  > li + li {
 }
 
 .contact-section a:hover {
-    color: #0d4e86
+    color: #6eceb2
 }
 
 .contact-section .section-title {
@@ -1089,7 +1089,7 @@ ol.carousel-indicators  > li + li {
 
 .contact-section .contact-block .svg-inline--fa {
     margin-right: 5px;
-    color: #0d4e86;
+    color: #6eceb2;
     font-size: 24px
 }
 
@@ -1241,7 +1241,7 @@ ol.carousel-indicators  > li + li {
         box-shadow: none
     }
     .nav>li.active>a {
-        color: #0d4e86
+        color: #6eceb2
     }
     .promo-section {
         min-height: 900px
@@ -1493,7 +1493,7 @@ body {
 }
 
 .config-panel #color-options li.theme-1 a {
-    background: #0d4e86
+    background: #6eceb2
 }
 
 .config-panel #color-options li.theme-2 a {
