@@ -40,6 +40,7 @@ $(document).ready(function() {
         transition: 'zoomOut',
         transitionDuration: 3000,
         slides: [
+            { src: 'images/Logos/WaveformLogoWhite.svg' },
             { src: 'images/hero-1.jpg' },
             { src: 'images/hero-2.jpg' },
             { src: 'images/hero-3.jpg' },

@@ -437,7 +437,7 @@ label {
 }
 
 .logo-holder {
-    height: 260px;
+    height: 100px;
     text-align: center;
     background-color: transparent;
     background-position: center center;
@@ -458,9 +458,8 @@ label {
 }
 
 .promo-content .tagline {
-    font-size: 30px;
+    font-size: 24px;
     margin-bottom: 90px;
-    font-style:italic;
 }
 
 .updates-block {
